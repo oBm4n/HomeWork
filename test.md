@@ -21,3 +21,12 @@ Linux , MacOs
 ls
 ```
 
+Удаление файла в Windows
+```
+del <filename>
+```
+Linux , MacOs
+```
+rm <filename>
+```
+
